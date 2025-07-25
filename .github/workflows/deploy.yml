@@ -25,4 +25,4 @@ jobs:
           pip install python-telegram-bot==20.7
 
       - name: Run Telegram bot
-        run: python your_bot_file.py
+        run: python rizydra.py
